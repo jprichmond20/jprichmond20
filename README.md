@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on learning Python and working with machine learning methods
+- 💬 Ask me about bowling
+- 📫 How to reach me: jprichmond20@coe.edu
 <!--
 **jprichmond20/jprichmond20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
